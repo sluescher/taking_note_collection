@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://commons.wikimedia.org/wiki/File:Qalawun_Complex_2019.jpg" %}
+{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/4/44/Qalawun_Complex_2019.jpg" %}
 
 ## About the Collection
 
